@@ -1,0 +1,1 @@
+import{_ as t,c as e,o}from"./index-CVR-7Osh.js";const s={name:"about",data(){return{}},methods:{}},a={class:"about"};function c(n,r,_,d,p,u){return o(),e("div",a)}const f=t(s,[["render",c]]);export{f as default};

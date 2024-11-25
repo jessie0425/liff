@@ -1,0 +1,1 @@
+import{_ as t,c as s,a as o,o as r}from"./index-CVR-7Osh.js";const a={name:"ErrorLiff"},n={class:"w-full h-full flex flex-col items-center justify-center gap2"};function c(f,e,l,i,p,_){return r(),s("div",n,e[0]||(e[0]=[o("span",{class:"font700 text-lg"},"請使用 LINE 內部瀏覽器開啟連結。",-1)]))}const u=t(a,[["render",c]]);export{u as default};
